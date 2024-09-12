@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmetIlhan
 - 👀 I’m interested in software developing and database structures
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning C# and JavaScript
 - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
