@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AhmetIlhan
 - 👀 I’m interested in software developing and database structures
-- 🌱 I’m currently learning C# and Full Stact Development with JavaScript
+- 🌱 I’m currently working witth C# and JavaScript for FullStack & Backend development.
+- 
 - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
