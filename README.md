@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AhmetIlhan
 - 👀 I’m interested in software developing and database structures
-- 🌱 I’m currently working witth C# and JavaScript for FullStack & Backend development.
+- 🌱 I’m currently working with TypeScript and JavaScript for FullStack & Backend development.
+-     I'm using express.js and nest.js for backend.
 - 
 - 
 - 💞️ I’m looking to collaborate on ...
